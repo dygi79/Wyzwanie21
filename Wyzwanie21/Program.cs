@@ -18,13 +18,3 @@ else if (famale == false && age < 18)
     Console.WriteLine("Niepelnoletni mezczyzna");
 }
 
-else if (famale == false && age > 18)
-{
-    Console.WriteLine("Pelnoletni mezczyzna");
-}
-
-else
-{
-    Console.WriteLine("To nie wiem kim jest ten czlowiek");
-}
-
